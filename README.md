@@ -6,8 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
+Full Stack Developer in Java 
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (Spring Boot, Java, Microservices,API development,Oracle,MySQL), design (working closely with designers), front-end development (React, Angular, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
